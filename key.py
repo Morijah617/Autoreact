@@ -1,5 +1,5 @@
 #===========================
-#Coded by MrUser
+#Coded by Morijah
 #Made in Madagascar
 #Please follow my github channel
 #I am not responsible for what you will do with this tools
